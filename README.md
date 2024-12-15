@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KunalKirimkar
 - 👀 I’m interested in softwre development, web development, app development, network security analysis.
-- 🌱 I’m currently learning btech in computer science & engineering
+- 🌱 I have completed B.Tech in Computer Science and Engineering & Diploma in Information Technology
 
 
 
